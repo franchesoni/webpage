@@ -8,6 +8,7 @@ tags:
 - how to
 - setup
 - theme
+published: false
 ---
 
 # What is WhatATheme?
