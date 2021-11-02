@@ -11,11 +11,11 @@ title: Franco Marchesoni
 # Description of the Site
 description: Learning to share 
 # URL of Image of the Site
-site-image: /WhatATheme/assets/images/meta.jpg
+site-image: https://pbs.twimg.com/profile_images/1296616176081133569/0AVFLYJz_400x400.jpg
 # Keywords of the Site
-site-keywords: Site, Template, Theme
+site-keywords: # Site, Template, Theme
 # URL for the Image of custom Favicon
-favicon-url: 
+favicon-url: https://pbs.twimg.com/profile_images/1296616176081133569/0AVFLYJz_400x400.jpg
 
 # URL of the Image of Custom Hero Image (i.e., the image in the background of the very first section of the Homepage)
 heroimage: chile.jpg
@@ -48,7 +48,7 @@ author-image: https://pbs.twimg.com/profile_images/1296616176081133569/0AVFLYJz_
 # 60 Words About the Author
 author-about: The meaning of life is there where the question does not arise. 
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
-author-url: https://github.com/franchesoni
+author-url: https://franchesoni.github.io/webpage/  # https://github.com/franchesoni
 
 # SASS
 sass:
