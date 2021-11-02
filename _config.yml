@@ -37,7 +37,8 @@ dribbble_username:
 spotify_username: 
 
 # Google Analytics
-google-analytics: UA-163806439-1
+# google-analytics: UA-163806439-1
+google-analytics: G-45FMJZ2XJC
 
 # Disqus
 disqus-shortname: 
